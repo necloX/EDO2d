@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a00ea0dd2aecd514ea2bcff7da103530, type: 3}
+  m_Name: ColorSetting
+  m_EditorClassIdentifier: 
+  backgroundColor: {r: 0.22352941, g: 0.2784314, b: 0.3372549, a: 0}
+  nodeColor: {r: 0.14901961, g: 0.14901961, b: 0.14901961, a: 0}
+  propColor: {r: 0.4, g: 0.6784314, b: 1, a: 0}
+  typeColor: {r: 0.99215686, g: 0.89411765, b: 0, a: 0}
